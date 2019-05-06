@@ -1,6 +1,5 @@
 package fr.pizzeria;
 
-import java.util.Scanner;
 public abstract class MenuService {
 	void executeUc(PizzaMemDao dao) {
 		
